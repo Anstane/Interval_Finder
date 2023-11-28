@@ -1,6 +1,6 @@
-# test_task
+# Interval_Finder
 
-#### Тестовое задание на вакансию Python backend developer.
+#### Приложение для высчитывания 30-минутных интервалов между перерывами.
 
 
 #### Функция принимает на вход начало рабочего дня, конец и список занятых промежутков -> возвращает список окон в ходе рабочего дня, исключающих промежутки из словаря busy_periods.
@@ -8,10 +8,10 @@
 
 #### Clone
 ```
-  git clone git@github.com:Anstane/test_task.git
+  git clone git@github.com:Anstane/Interval_Finder.git
 ```
 
 #### Start
 ```
-  python test_task.py
+  python Interval_Finder.py
 ```
