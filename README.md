@@ -1,17 +1,17 @@
-# Interval_Finder
+# interval_finder
 
-#### Приложение для высчитывания 30-минутных интервалов между перерывами.
+#### Application for calculating 30-minute intervals between breaks.
 
 
-#### Функция принимает на вход начало рабочего дня, конец и список занятых промежутков -> возвращает список окон в ходе рабочего дня, исключающих промежутки из словаря busy_periods.
-## Установка
+#### The function takes as input the beginning of the working day, the end and a list of busy periods -> returns a list of windows during the working day that exclude periods from the busy_periods dictionary.
+## Installation
 
 #### Clone
 ```
-  git clone git@github.com:Anstane/Interval_Finder.git
+  git clone git@github.com:Anstane/interval_finder.git
 ```
 
 #### Start
 ```
-  python Interval_Finder.py
+  python interval_finder.py
 ```
